@@ -4,6 +4,6 @@ PyTorch implementation of ["Adaptive Computation Time for Recurrent Neural Netwo
 
 Training can be done using `run_train.py` and passing the appropiate configuration file.
 
-~~~python
+~~~bash
 python3 run_train.py --config-file=configs/rnn_addition.yaml
 ~~~
